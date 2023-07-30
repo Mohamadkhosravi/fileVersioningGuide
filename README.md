@@ -7,7 +7,7 @@
 #   #
 ساختار کلی به این صورت است:
 
-`projectName`_V(`major Versions` ).(`major Versions`).( `major Versions`)
+`projectName`_V(`Major Versions` ).(`Minor Versions`).( `Patch Versions`)
 #   #
 #  myProject_V1.2.3  مثال
 
