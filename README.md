@@ -6,9 +6,11 @@
 نام‌گذاری نسخه‌های فایل‌ها یکی از جنبه‌های مهم در مدیریت فایل‌ها، به ویژه در محیط‌های همکاری یا پیگیری تغییرات در طول زمان است. در این راهنما، یک روش ساده برای نام‌گذاری نسخه‌های فایل‌ها به شما معرفی خواهد شد.
 #   #
 ساختار کلی به این صورت است:
-![Semver](https://github.com/Mohamadkhosravi/file_versioning_guide/assets/94738811/e1bb260b-0f0c-40a5-9476-36950979490f)
 
 `projectName`_V(`Major Versions` ).(`Minor Versions`).( `Patch Versions`)
+
+![Semver](https://github.com/Mohamadkhosravi/file_versioning_guide/assets/94738811/e1bb260b-0f0c-40a5-9476-36950979490f)
+
 #   #
 #  myProject_V1.2.3  مثال
 
